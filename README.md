@@ -1,1 +1,1 @@
-This is the root README for alu-zero_day
+this is the root README for alu-zero_day
